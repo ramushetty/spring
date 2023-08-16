@@ -1,0 +1,10 @@
+coupling - how much work is involved in changing something?
+
+tightly coupled - need to change the class name each and every time if class names are hardcoded 
+
+ONly thing constant in technology is change - business requirement, code changes , framework changes , so its better to use loose coupling as much as possible 
+
+use use java interface and spring framework to help in loose coupling 
+
+gamerclass - gamingconsole(interface) - all classes that implements gamingconsole
+
