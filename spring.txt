@@ -8,3 +8,20 @@ use use java interface and spring framework to help in loose coupling
 
 gamerclass - gamingconsole(interface) - all classes that implements gamingconsole
 
+
+a entireprise application can have so many object wiring them is very difficult as depedency injection so we use spring to manage them 
+
+
+spring - used to manage the objects 
+
+
+create spring context inside JVM 
+
+we need to launch spring context
+and configure the things that we want to manage by spring - @Configuration
+
+
+
+
+
+
